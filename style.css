@@ -5,7 +5,8 @@ h1 {
 
 body
 {
-   background-image: url(Nathaniel.jpg);
+   background-image: url('source.gif');
+background-size: cover;
   background-color: #cccccc;
 } 
 
