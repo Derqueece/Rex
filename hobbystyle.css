@@ -1,7 +1,11 @@
 body {
 background-image: url(Funky.png);
-  background-color: #cccccc;
+  background-color: #cccccc; 
 }
+  h1 {
+  text-align:center;
+}
+
 
 ul {
     list-style-type: none;
