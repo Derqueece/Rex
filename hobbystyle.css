@@ -2,33 +2,4 @@ body {
 background-image: url(Funky.png);
   background-color: #cccccc; 
 }
-  h1 {
-  text-align:center;
-}
-
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: rgb(255, 255, 255, .4);
-}
-
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: orange;
-    text-align: left;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-
-li a:hover {
-    background-color: #555;
-}
+ 
