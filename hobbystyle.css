@@ -2,6 +2,14 @@ h1 {
   text-align:center;
   color:#23ff91;
 }
+h2 {
+  text-align:center;
+  color:#e01cff;
+}
+h3{
+  text-align:center;
+  color:#fc002e;
+}
 
 body {
 background-image: url(Funky.png);
