@@ -6,10 +6,16 @@ h2 {
   text-align:center;
   color:#71fc00;
 }
-h3{
+h3 {
   text-align:center;
   color:#fc002e;
 }
+h4 
+  image-center 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 
 body {
 background-image: url(Funky.png);
