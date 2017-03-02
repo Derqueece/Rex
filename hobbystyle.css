@@ -15,4 +15,7 @@ body {
 background-image: url(Funky.png);
   background-color: #cccccc; 
 }
- 
+ img {
+   display:block;
+  margin:auto;
+}
